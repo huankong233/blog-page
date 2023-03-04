@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-095d0f54","path":"/tags/python/","title":"python | Tags","lang":"zh-CN","frontmatter":{"title":"python | Tags","layout":"Tags","blog":{"type":"category","name":"python","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{t as data};

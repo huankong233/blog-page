@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-41fc50b4","path":"/docs/kkbot/1.%E4%BB%8B%E7%BB%8D.html","title":"\u4ECB\u7ECD","lang":"zh-CN","frontmatter":{"title":"\u4ECB\u7ECD","date":"2023-02-08T00:00:00.000Z"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":1,"words":88},"filePathRelative":"docs/kkbot/1.\u4ECB\u7ECD.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-540be11a","path":"/tags/laravel/","title":"laravel | Tags","lang":"zh-CN","frontmatter":{"title":"laravel | Tags","layout":"Tags","blog":{"type":"category","name":"laravel","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{a as data};
