@@ -1,0 +1,1 @@
+import{Ut as e}from"./common-D23sQdZE.js";export{e as createArchitectureServices};
