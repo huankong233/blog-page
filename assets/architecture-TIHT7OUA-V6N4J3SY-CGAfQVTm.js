@@ -1,0 +1,1 @@
+import{Ut as e}from"./common-BSBuQg6P.js";export{e as createArchitectureServices};
